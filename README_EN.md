@@ -4,7 +4,7 @@
 
 Building scalable infrastructure, automation platforms, and cloud-native applications.
 
-🇨🇳 中文 · 🇺🇸 English
+[🇨🇳 中文](README.md) · [🇺🇸 English](README_EN.md)
 
 ***
 

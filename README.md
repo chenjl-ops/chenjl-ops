@@ -4,7 +4,7 @@
 
 专注于构建可扩展的基础设施、效能平台、自动化平台和云原生应用。
 
-🇨🇳 中文 · 🇺🇸 English
+[🇨🇳 中文](README.md) · [🇺🇸 English](README_EN.md)
 
 ***
 
