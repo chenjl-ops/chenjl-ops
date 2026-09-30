@@ -1,26 +1,26 @@
-# 👋 我是 Chen
+# 👋 I'm Chen
 
-**运维工程师 | 云原生 | DevOps**
+**SRE Engineer | Cloud Native | DevOps**
 
-专注于构建可扩展的基础设施、效能平台、自动化平台和云原生应用。
+Building scalable infrastructure, automation platforms, and cloud-native applications.
 
 🇨🇳 中文 · 🇺🇸 English
 
 ***
 
-## 🚀 当前方向
+## 🚀 Current Focus
 
-* ☁️ 云原生平台
+* ☁️ Cloud Native Platforms
 
-* 🐳 Kubernetes & 容器化
+* 🐳 Kubernetes & Containers
 
 * ⚙️ Platform Engineering
 
 * 📦 Infrastructure as Code
 
-* 🔧 DevOps 自动化
+* 🔧 DevOps Automation
 
-* 📊 可观测性与监控
+* 📊 Observability & Monitoring
 
 ***
 
@@ -58,25 +58,25 @@
 
 ### ☁️ Cloud Native Platform
 
-构建 Kubernetes 自动化平台，提供集群管理、应用交付、资源管理和运维能力。
+Building Kubernetes automation platforms for cluster management, application delivery, resource management, and operations.
 
 ### ⚙️ DevOps Toolkit
 
-沉淀日常 DevOps 自动化脚本、工具和可复用组件，提升基础设施和应用交付效率。
+Developing reusable DevOps tools, automation scripts, and components to improve infrastructure and application delivery.
 
 ### 📦 Kubernetes Toolkit
 
-开发 Kubernetes 运维工具，解决集群管理、故障排查、资源分析等实际问题。
+Building practical utilities for Kubernetes operations, troubleshooting, resource analysis, and cluster management.
 
 ### 🏗️ Infrastructure as Code
 
-使用 Terraform、Ansible 等工具实现基础设施自动化和标准化。
+Automating and standardizing infrastructure with Terraform, Ansible, and other IaC tools.
 
 ***
 
 ## 🌱 Currently Learning
 
-* Kubernetes Operator
+* Kubernetes Operators
 
 * eBPF
 
@@ -90,14 +90,8 @@
 
 ## 📫 Contact
 
-<<<<<<< HEAD
-- GitHub: https://github.com/chenjl-ops
-- Blog: https://blog.123go.club
-- Email: chenjl8891@126.com
-=======
 * GitHub: https\://github.com/chenjl-ops
 
 * Blog: https\://blog.123go.club
 
 * Email: chenjl8891\@126.com
->>>>>>> 2bd9dc8 (Update README And Distinguish between the Chinese and English versions.)
